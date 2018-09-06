@@ -1,2 +1,2 @@
 # AdventOfCode
-js practice
+tasks from https://adventofcode.com/2015/
